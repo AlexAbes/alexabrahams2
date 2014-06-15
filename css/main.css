@@ -1,0 +1,123 @@
+/*FOR ALL PAGES*/
+
+body {
+	font-family: 'Merriweather', 'sans-serif';
+	background-color: black;
+	color: #FFFFFF;
+}
+
+#profile {
+	max-width: 250px;
+	max-height: 235px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2 {
+	font-size: 32px;
+	color: #FFFFFF;
+	line-height: 32px;
+	text-align: center;
+}
+
+/*SOCIAL MEDIA BUTTONS*/
+
+.social_media img {
+	max-width: 65px;
+	max-height: 70px;
+	margin-bottom: 3%;
+}
+
+.social_media {
+	max-width: 1500px;
+	text-align: center;
+}
+
+#twitter {
+	margin-left: 15%;
+	margin-right: 5%;
+}
+
+#linkedin {
+	margin-right: 5%;
+}
+
+#mail {
+	margin-right: 15%;
+}
+
+/*LEARN TO CODE BUTTON*/
+
+.learn {
+	text-align: center;
+}
+
+.button {
+	border-radius: 8px;
+	background: rgba(215,215,215,0.00);
+	border: 5px solid #FFFFFF;
+	font-size: 39px;
+	color: #FFFFFF;
+	line-height: 39px;
+	text-decoration: none;
+	text-align: center;
+	padding: 2px 5px 2px 5px;
+}
+
+.button:active {
+	border: 50px;
+}
+
+a, a:visited {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+/*PARAGRAPH*/
+
+.text {
+	max-width: 940px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.text p {
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 40px;
+}
+
+/*FOOTER*/
+
+footer {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+footer p {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 12px;
+}
+
+/*RESOURCES PAGE*/
+
+.row a {
+	font-size: 20px;
+}
+
+.row {
+	margin-bottom: 10px;
+	padding-left: 3%;
+	margin-right: 2%;
+}
+
+.intro p {
+	font-size: 20px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+
