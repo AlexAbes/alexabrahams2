@@ -57,12 +57,13 @@ h1, h2 {
 	border-radius: 8px;
 	background: rgba(215,215,215,0.00);
 	border: 5px solid #FFFFFF;
-	font-size: 39px;
+	font-size: 2em;
 	color: #FFFFFF;
-	line-height: 39px;
+	line-height: 2em;
 	text-decoration: none;
 	text-align: center;
-	padding: 2px 5px 2px 5px;
+	/*padding: 2px 5px 2px 5px;*/
+	padding: 1% 2% 1% 2%;
 }
 
 .button:active {
