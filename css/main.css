@@ -24,8 +24,8 @@ h1, h2 {
 /*SOCIAL MEDIA BUTTONS*/
 
 .social_media img {
-	max-width: 10%;
-	max-height: 10%;
+	max-width: 65px;
+	max-height: 70px;
 	margin-bottom: 3%;
 }
 
@@ -35,7 +35,7 @@ h1, h2 {
 }
 
 #twitter {
-	margin-left: 15%;
+	margin-left: 10%;
 	margin-right: 5%;
 }
 
@@ -44,7 +44,7 @@ h1, h2 {
 }
 
 #mail {
-	margin-right: 15%;
+	margin-right: 10%;
 }
 
 /*LEARN TO CODE BUTTON*/
